@@ -1,0 +1,56 @@
+﻿  main.cpp
+C:\Users\Yousef\Documents\GitHub\Bank_Project\Bank_Project_ConsoleApp\clsString.h(120,32): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Yousef\Documents\GitHub\Bank_Project\Bank_Project_ConsoleApp\clsString.h(178,31): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Yousef\Documents\GitHub\Bank_Project\Bank_Project_ConsoleApp\clsString.h(297,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Yousef\Documents\GitHub\Bank_Project\Bank_Project_ConsoleApp\clsString.h(345,32): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Yousef\Documents\GitHub\Bank_Project\Bank_Project_ConsoleApp\clsString.h(413,32): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Yousef\Documents\GitHub\Bank_Project\Bank_Project_ConsoleApp\clsString.h(438,27): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Yousef\Documents\GitHub\Bank_Project\Bank_Project_ConsoleApp\clsString.h(443,28): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Yousef\Documents\GitHub\Bank_Project\Bank_Project_ConsoleApp\clsUtil.h(295,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Yousef\Documents\GitHub\Bank_Project\Bank_Project_ConsoleApp\clsInputValidate.h(198,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Yousef\Documents\GitHub\Bank_Project\Bank_Project_ConsoleApp\clsBankClient.h(43,150): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Yousef\Documents\GitHub\Bank_Project\Bank_Project_ConsoleApp\clsBankClient.h(143,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Yousef\Documents\GitHub\Bank_Project\Bank_Project_ConsoleApp\clsBankClient.h(144,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Yousef\Documents\GitHub\Bank_Project\Bank_Project_ConsoleApp\clsBankClient.h(145,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Yousef\Documents\GitHub\Bank_Project\Bank_Project_ConsoleApp\clsBankClient.h(345,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Yousef\Documents\GitHub\Bank_Project\Bank_Project_ConsoleApp\clsBankClient.h(357,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Yousef\Documents\GitHub\Bank_Project\Bank_Project_ConsoleApp\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Yousef\Documents\GitHub\Bank_Project\Bank_Project_ConsoleApp\clsTransferScreen.h(46,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Yousef\Documents\GitHub\Bank_Project\Bank_Project_ConsoleApp\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Bank_Project_ConsoleApp.vcxproj -> C:\Users\Yousef\Documents\GitHub\Bank_Project\Bank_Project_ConsoleApp\x64\Debug\Bank_Project_ConsoleApp.exe
