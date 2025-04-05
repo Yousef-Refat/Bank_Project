@@ -74,7 +74,7 @@ Bank_Project/
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/Yousef-Refat/Bank_Project.git
+   git clone https://github.com/JooScript/Bank_Project.git
    cd Bank_Project
    ```
 2. **Compile the Code** (Using g++)
